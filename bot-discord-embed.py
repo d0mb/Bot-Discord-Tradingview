@@ -6,7 +6,7 @@ import discord_webhook
 from discord_webhook import DiscordWebhook, DiscordEmbed
 
 # PASTE YOUR URL DISCORD WEBHOOK
-url = 'https://discord.com/api/webhooks/1024788396008276051/BIyICicJVTMp0gP17iq0kvCrxt5bOPBAsm7qsw9tumAx5oySwV3tqK-XSyu11c54xdKe'
+url = 'https://discord.com/api/webhooks/___YOUR_URL_WEBHOOK__'
 
 # GET HOUR AND DATE
 now = datetime.now()
